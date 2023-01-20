@@ -4,65 +4,78 @@ title: "CS 302: Spring 2023"
 layout: default
 ---
 
-## Calendar {#calendar .bg-primary .text-light .p-3 .mb-3}
+{:#calendar .bg-primary .text-light .p-3 .mb-3}
+## _Very_ **Tenative** Calendar
 
 Blank rows will be filled in soon, though topics may change based on
 need and guest speakers.
 
+{:.table .table-striped}
 | Week | Date | Class topic | Homework |
 |:-----|------|-------------|:---------:|
 | 1    | 1/20 | No Class | No Homework |
-| 2    | 1/27 | Introductions, 302 overview | [Homework 1][hw1]{target="_blank"} (Due Fri, Jan 29) |
-| 3    | 2/3  | Logistics & class formats | [Homework 2][hw2]{target="_blank"} (Due Fri, Mon XX) |
-| 4    | 2/10 | Hiring and interviewing | [Homework 3][hw3]{target="_blank"} (Due Fri, Mon XX) |
-| 5    | 2/17 | Exam writing and Lecturing | [Homework 4][hw4]{target="_blank"} (Due Fri, Mon XX) |
-| 6    | 2/24 | Inclusivity & Accessibility | [Homework 5][hw5]{target="_blank"} (Due Fri, Mon XX) |
-| 7    | 3/3  | Exam proctoring, Office hours | [Homework 6][hw6]{target="_blank"} (Due Fri, Mon XX) |
-| 8    | 3/10 | Academic Misconduct (CSC guest) | [Homework 7][hw7]{target="_blank"} (Due Fri, Mon XX) |
-| 9    | 3/17 | Surveys, Grades | [Homework 8][hw8]{target="_blank"} (Due Fri, Mon XX) |
-| 10   | 3/24 | **No Class** | [Homework 9][hw9]{target="_blank"} (Due Fri, Mon XX) |
+| 2    | 1/27 | Introductions, 302 overview | [Homework 1][hw1] (Due Fri, Jan 29) |
+| 3    | 2/3  | Logistics & class formats | [Homework 2][hw2] (Due Fri, Mon XX) |
+| 4    | 2/10 | Hiring and interviewing | [Homework 3][hw3] (Due Fri, Mon XX) |
+| 5    | 2/17 | Exam writing and Lecturing | [Homework 4][hw4] (Due Fri, Mon XX) |
+| 6    | 2/24 | Inclusivity & Accessibility | [Homework 5][hw5] (Due Fri, Mon XX) |
+| 7    | 3/3  | Exam proctoring, Office hours | [Homework 6][hw6] (Due Fri, Mon XX) |
+| 8    | 3/10 | Academic Misconduct (CSC guest) | [Homework 7][hw7] (Due Fri, Mon XX) |
+| 9    | 3/17 | Surveys, Grades | [Homework 8][hw8] (Due Fri, Mon XX) |
+| 10   | 3/24 | **No Class** | [Homework 9][hw9] (Due Fri, Mon XX) |
 | 11   | 3/31 | **Spring Break** | No Homework |
-| 12   | 4/7  | Team mini-lectures | [Homework 10][hw10]{target="_blank"} (Due Fri, Mon XX) |
-| 13   | 4/14 | Team mini-lectures (Pt II) | [Homework 11][hw11]{target="_blank"} (Due Fri, Mon XX) |
-| 14   | 4/21 | DSP, Incompletes, Extensions | [Homework 12][hw12]{target="_blank"} (Due Fri, Mon XX) |
-| 15   | 4/28 | "Things We Wish We Had Known…" (Panel) | [Homework 13][hw13]{target="_blank"} (Due Fri, Mon XX) |
+| 12   | 4/7  | Team mini-lectures | [Homework 10][hw10] (Due Fri, Mon XX) |
+| 13   | 4/14 | Team mini-lectures (Pt II) | [Homework 11][hw11] (Due Fri, Mon XX) |
+| 14   | 4/21 | DSP, Incompletes, Extensions | [Homework 12][hw12] (Due Fri, Mon XX) |
+| 15   | 4/28 | "Things We Wish We Had Known…" (Panel) | [Homework 13][hw13] (Due Fri, Mon XX) |
 | 16   | 5/5 | RRR Week | No Homework |
 | 17   | 5/12| Finals Week | |
 
-## Course staff {#course-staff .bg-primary .text-light .p-3 .mb-3}
+[hw1]: https://docs.google.com
+[hw2]: https://docs.google.com
+[hw3]: https://docs.google.com
+[hw4]: https://docs.google.com
+[hw5]: https://docs.google.com
+[hw6]: https://docs.google.com
+[hw7]: https://docs.google.com
+[hw8]: https://docs.google.com
+[hw9]: https://docs.google.com
+[hw10]: https://docs.google.com
+[hw11]: https://docs.google.com
+[hw12]: https://docs.google.com
+[hw13]: https://docs.google.com
 
-::: container
-::: row
-::: col
-![Photo of Michael Ball](https://cs88-website.github.io/sp22/assets/images/michael-ball.jpg){height="100"}\
-Michael Ball\
-(Co-lecturer)\
-<ball@berkeley.edu>\
-Pronouns: he/him
-:::
+{:#course-staff .bg-primary .text-light .p-3 .mb-3}
+## Course staff
 
-::: col
-![Photo of Nick Weaver][nickphoto]{height="100"}\
-Nick Weaver\
-(Co-lecturer)\
-<ball@berkeley.edu>\
-Pronouns: he/him
-:::
+<div class="container">
+    <div class="row">
+    <div class="col">
+        <img src="https://cs88-website.github.io/sp22/assets/images/michael-ball.jpg" alt="Photo of Michael Ball" height="100"><br>
+        Michael Ball<br>
+        (Co-lecturer)<br>
+        <a href="mailto:ball@berkeley.edu">ball@berkeley.edu</a><br>
+        Pronouns: he/him
+    </div>
+    <div class="col">
+        <img src="https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/nweaver.jpg" alt="Photo of Nick Weaver" height="100"><br>
+        Nick Weaver<br>
+        (Co-lecturer)<br>
+        <a href="mailto:nveaver@berkeley.edu">nveaver@berkeley.edu</a><br>
+        Pronouns: he/him
+    </div>
+    <div class="col">
+        <img src="https://github.com/Cal-CS-61A-Staff/staff-images/raw/master/sp21/alex-kassil.jpg" alt="Photo of Alex Kassil" height="100"><br>
+        Alex Kassil<br>
+        (Reader)<br>
+        <a href="mailto:alexkassil@berkeley.edu">alexkassil@berkeley.edu</a><br>
+        Pronouns: he/him
+    </div>
+    </div>
+</div>
 
-[nickphoto]: https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/nweaver.jpg
-
-::: col
-![Photo of Alex
-Kassil](https://github.com/Cal-CS-61A-Staff/staff-images/raw/master/sp21/alex-kassil.jpg){height="100"}\
-Alex Kassil\
-(Reader)\
-<alexkassil@berkeley.edu>\
-Pronouns: he/him
-:::
-:::
-:::
-
-## Grading {#grading .bg-primary .text-light .p-3 .mb-3}
+{:#grading .bg-primary .text-light .p-3 .mb-3}
+## Grading
 
 For the most part, we would prefer to teach this course without grades.
 What a wonderful concept, learning for learning sake! However, even
@@ -70,13 +83,15 @@ though we can\'t change the \"system\" overnight, we can create grading
 policies that support learning as much as possible. The various course
 activities will contribute to your grade as follows:
 
+{:.table .table-striped}
 | Activity | Percentage of Total Grade |
 |----------|---------------------------|
 | Weekly homework | 60% |
 | Review others' homework | 20% |
 | Attendance & participation | 20% |
 
-## Overview {#overview .bg-primary .text-light .p-3 .mb-3}
+{:#overview .bg-primary .text-light .p-3 .mb-3}
+## Overview
 
 The course catalog entry for **CS302**:
 
@@ -172,10 +187,10 @@ Acknowledgment, we affirm Indigenous sovereignty and will work to hold
 University of California Berkeley more accountable to the needs of
 American Indian and Indigenous peoples.
 
-## Resources {#resources .bg-primary .text-light .p-3 .mb-3}
+{:#resources .bg-primary .text-light .p-3 .mb-3}
+## Resources
 
 - Tools for Teaching (second edition), by Barbara Gross Davis,
     Jossey-Bass (2009).
 - [UC Berkeley\'s GSI Teaching & Resource
-    Center](http://gsi.berkeley.edu/){target="_blank"}
-:::
+    Center](http://gsi.berkeley.edu/)
