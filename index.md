@@ -1,9 +1,8 @@
 ---
 lang: en
 title: "CS 302: Spring 2023"
+layout: default
 ---
-
-::: {.col-lg-8 .mx-auto .p-3 .py-md-5}
 
 ## Calendar {#calendar .bg-primary .text-light .p-3 .mb-3}
 
