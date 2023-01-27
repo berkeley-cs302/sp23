@@ -7,6 +7,8 @@ layout: default
 {:#calendar .bg-primary .text-light .p-3 .mb-3}
 ## _Very_ **Tenative** Calendar
 
+**Class Meetings: 10am-12pm, 166 Social Sciences Every Friday**
+
 Blank rows will be filled in soon, though topics may change based on
 need and guest speakers.
 
@@ -14,24 +16,25 @@ need and guest speakers.
 | Week | Date | Class topic | Homework |
 |:-----|------|-------------|:---------:|
 | 1    | 1/20 | No Class | No Homework |
-| 2    | 1/27 | Introductions, 302 overview | [Homework 1][hw1] (Due Fri, Jan 29) |
-| 3    | 2/3  | Logistics & class formats | [Homework 2][hw2] (Due Fri, Mon XX) |
-| 4    | 2/10 | Hiring and interviewing | [Homework 3][hw3] (Due Fri, Mon XX) |
-| 5    | 2/17 | Exam writing and Lecturing | [Homework 4][hw4] (Due Fri, Mon XX) |
-| 6    | 2/24 | Inclusivity & Accessibility | [Homework 5][hw5] (Due Fri, Mon XX) |
-| 7    | 3/3  | Exam proctoring, Office hours | [Homework 6][hw6] (Due Fri, Mon XX) |
-| 8    | 3/10 | Academic Misconduct (CSC guest) | [Homework 7][hw7] (Due Fri, Mon XX) |
-| 9    | 3/17 | Surveys, Grades | [Homework 8][hw8] (Due Fri, Mon XX) |
-| 10   | 3/24 | **No Class** | [Homework 9][hw9] (Due Fri, Mon XX) |
+| 2    | 1/27 | Introductions, 302 overview | [Homework 1][hw1] (Due Weds, Feb 1) |
+| 3    | 2/3  | Logistics & class formats | [Homework 2][hw2] (Due Weds, Feb 8) |
+| 4    | 2/10 | Hiring and interviewing | [Homework 3][hw3] (Due Weds, Feb 15) |
+| 5    | 2/17 | Exam writing and Lecturing | [Homework 4][hw4] (Due Weds, Feb 22) |
+| 6    | 2/24 | Inclusivity & Accessibility | [Homework 5][hw5] (Due Weds, Mar 1) |
+| 7    | 3/3  | Exam proctoring, Office hours | [Homework 6][hw6] (Due Weds, Mar 8) |
+| 8    | 3/10 | Academic Misconduct (CSC guest) | [Homework 7][hw7] (Due Weds, Mar 15) |
+| 9    | 3/17 | Surveys, Grades | [Homework 8][hw8] (Due Weds, Mar 23) |
+| 10   | 3/24 | **No Class** | [Homework 9][hw9] (Due Weds, April 5) |
 | 11   | 3/31 | **Spring Break** | No Homework |
-| 12   | 4/7  | Team mini-lectures | [Homework 10][hw10] (Due Fri, Mon XX) |
-| 13   | 4/14 | Team mini-lectures (Pt II) | [Homework 11][hw11] (Due Fri, Mon XX) |
-| 14   | 4/21 | DSP, Incompletes, Extensions | [Homework 12][hw12] (Due Fri, Mon XX) |
-| 15   | 4/28 | "Things We Wish We Had Known…" (Panel) | [Homework 13][hw13] (Due Fri, Mon XX) |
+| 12   | 4/7  | Team mini-lectures | [Homework 10][hw10] (Due Weds, April 12) |
+| 13   | 4/14 | Team mini-lectures (Pt II) | [Homework 11][hw11] (Due Weds, April 19) |
+| 14   | 4/21 | DSP, Incompletes, Extensions | [Homework 12][hw12] (Due Weds, April 26) |
+| 15   | 4/28 | "Things We Wish We Had Known…" (Panel) | [Homework 13][hw13] (Due Weds, May 3) |
 | 16   | 5/5 | RRR Week | No Homework |
 | 17   | 5/12| Finals Week | |
+| 18   | TBD| May/June Meeting | |
 
-[hw1]: https://docs.google.com
+[hw1]: https://docs.google.com/document/d/1sGuqNcIH5D8qClo9z84ZqbAAc3Eak73HCX4zq05MaUo/edit#
 [hw2]: https://docs.google.com
 [hw3]: https://docs.google.com
 [hw4]: https://docs.google.com
