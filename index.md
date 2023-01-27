@@ -53,27 +53,20 @@ need and guest speakers.
 
 <div class="container">
     <div class="row">
-    <div class="col">
-        <img src="https://cs88-website.github.io/sp22/assets/images/michael-ball.jpg" alt="Photo of Michael Ball" height="100"><br>
-        Michael Ball<br>
-        (Co-lecturer)<br>
-        <a href="mailto:ball@berkeley.edu">ball@berkeley.edu</a><br>
-        Pronouns: he/him
-    </div>
-    <div class="col">
-        <img src="https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/nweaver.jpg" alt="Photo of Nick Weaver" height="100"><br>
-        Nick Weaver<br>
-        (Co-lecturer)<br>
-        <a href="mailto:nveaver@berkeley.edu">nveaver@berkeley.edu</a><br>
-        Pronouns: he/him
-    </div>
-    <div class="col">
-        <img src="https://github.com/Cal-CS-61A-Staff/staff-images/raw/master/sp21/alex-kassil.jpg" alt="Photo of Alex Kassil" height="100"><br>
-        Alex Kassil<br>
-        (Reader)<br>
-        <a href="mailto:alexkassil@berkeley.edu">alexkassil@berkeley.edu</a><br>
-        Pronouns: he/him
-    </div>
+        <div class="col">
+            <img src="https://cs88-website.github.io/sp22/assets/images/michael-ball.jpg" alt="Photo of Michael Ball" height="100"><br>
+            Michael Ball<br>
+            (Co-lecturer)<br>
+            <a href="mailto:ball@berkeley.edu">ball@berkeley.edu</a><br>
+            Pronouns: he/him
+        </div>
+        <div class="col">
+            <img src="https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/nweaver.jpg" alt="Photo of Nick Weaver" height="100"><br>
+            Nick Weaver<br>
+            (Co-lecturer)<br>
+            <a href="mailto:nveaver@berkeley.edu">nveaver@berkeley.edu</a><br>
+            Pronouns: he/him
+        </div>
     </div>
 </div>
 
