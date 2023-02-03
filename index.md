@@ -35,7 +35,7 @@ need and guest speakers.
 | 18   | TBD| May/June Meeting | |
 
 [hw1]: https://docs.google.com/document/d/1sGuqNcIH5D8qClo9z84ZqbAAc3Eak73HCX4zq05MaUo/edit#
-[hw2]: https://docs.google.com
+[hw2]: https://docs.google.com/document/d/1bCnQBxWNwIWAPJvZ4JnmY87X4MdMXGllJwfpu6iDxY8/edit#
 [hw3]: https://docs.google.com
 [hw4]: https://docs.google.com
 [hw5]: https://docs.google.com
