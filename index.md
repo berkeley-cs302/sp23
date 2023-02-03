@@ -36,17 +36,17 @@ need and guest speakers.
 
 [hw1]: https://docs.google.com/document/d/1sGuqNcIH5D8qClo9z84ZqbAAc3Eak73HCX4zq05MaUo/edit#
 [hw2]: https://docs.google.com/document/d/1bCnQBxWNwIWAPJvZ4JnmY87X4MdMXGllJwfpu6iDxY8/edit#
-[hw3]: https://docs.google.com
-[hw4]: https://docs.google.com
-[hw5]: https://docs.google.com
-[hw6]: https://docs.google.com
-[hw7]: https://docs.google.com
-[hw8]: https://docs.google.com
-[hw9]: https://docs.google.com
-[hw10]: https://docs.google.com
-[hw11]: https://docs.google.com
-[hw12]: https://docs.google.com
-[hw13]: https://docs.google.com
+[hw3]:
+[hw4]:
+[hw5]:
+[hw6]:
+[hw7]:
+[hw8]:
+[hw9]:
+[hw10]:
+[hw11]:
+[hw12]:
+[hw13]:
 
 {:#course-staff .bg-primary .text-light .p-3 .mb-3}
 ## Course staff
