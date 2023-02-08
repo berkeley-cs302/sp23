@@ -36,19 +36,19 @@ _Homework assignments which say "Spring 2022" at the top are last years versions
 | 17   | 5/12| Finals Week | |
 | 18   | TBD| May/June Meeting | |
 
-[hw1]: https://docs.google.com/document/d/1sGuqNcIH5D8qClo9z84ZqbAAc3Eak73HCX4zq05MaUo/preview#
-[hw2]: https://docs.google.com/document/d/1bCnQBxWNwIWAPJvZ4JnmY87X4MdMXGllJwfpu6iDxY8/preview#
-[hw3]:
-[hw4]: https://docs.google.com/document/d/1nq4Yq-gBIUkr3eG8ui5iQI3HiJlXR13dvHOKWL_Pgvg/edit
-[hw5]: https://docs.google.com/document/d/1xiBtklsg9U1SGSxW9fH-lG9Mpb5JecE_oLRQwwtOSGQ/edit
-[hw6]: https://docs.google.com/document/d/1Re_pn18RIHigO6tHzRcuuXqMLHlRvrgyrLT5OA-odvM/edit
-[hw7]: https://docs.google.com/document/d/1lD3xUMLBkRdMbW_3cCZXzLD01IP4lUh1/edit
-[hw8]: https://docs.google.com/document/d/1Ofa4NmYLlL_XugiBBDjWYxKQBzOS_Z_veNEiTB-P4Kw/edit
-[hw9]: https://docs.google.com/document/d/1jpAWeLPtWuDehENO5zIx6UzT4z1OEyieAIP9UL85m1c/edit
-[hw10]: https://docs.google.com/document/d/1uVWoXn7HORUC7CCROphr9dq2hcsU-Kqx4W6MlQ5H4ow/edit
-[hw11]: https://docs.google.com/document/d/1qANVq4eq9awixuokGti2p6vLaaFDrnDv57wE0oonnb4/edit
-[hw12]: https://docs.google.com/document/d/1IEOIYp9W4NGJyCep1VDqUm_vJHjCAVXvlVrQzjsfZl4/edit
-[hw13]: https://docs.google.com/document/d/1zsj3UMsKjiz7Rc8m_W_UBQ2gkXkXI32s_KeJabqvzFw/edit
+[hw1]: https://docs.google.com/document/d/1sGuqNcIH5D8qClo9z84ZqbAAc3Eak73HCX4zq05MaUo/preview
+[hw2]: https://docs.google.com/document/d/1bCnQBxWNwIWAPJvZ4JnmY87X4MdMXGllJwfpu6iDxY8/preview
+[hw3]: https://docs.google.com/document/d/1rK-5MS-DYWEHTO40rI1PdiX_lKjM7KDVrty5zNTd0Go/preview
+[hw4]: https://docs.google.com/document/d/1nq4Yq-gBIUkr3eG8ui5iQI3HiJlXR13dvHOKWL_Pgvg/preview
+[hw5]: https://docs.google.com/document/d/1xiBtklsg9U1SGSxW9fH-lG9Mpb5JecE_oLRQwwtOSGQ/preview
+[hw6]: https://docs.google.com/document/d/1Re_pn18RIHigO6tHzRcuuXqMLHlRvrgyrLT5OA-odvM/preview
+[hw7]: https://docs.google.com/document/d/1lD3xUMLBkRdMbW_3cCZXzLD01IP4lUh1/preview
+[hw8]: https://docs.google.com/document/d/1Ofa4NmYLlL_XugiBBDjWYxKQBzOS_Z_veNEiTB-P4Kw/preview
+[hw9]: https://docs.google.com/document/d/1jpAWeLPtWuDehENO5zIx6UzT4z1OEyieAIP9UL85m1c/preview
+[hw10]: https://docs.google.com/document/d/1uVWoXn7HORUC7CCROphr9dq2hcsU-Kqx4W6MlQ5H4ow/preview
+[hw11]: https://docs.google.com/document/d/1qANVq4eq9awixuokGti2p6vLaaFDrnDv57wE0oonnb4/preview
+[hw12]: https://docs.google.com/document/d/1IEOIYp9W4NGJyCep1VDqUm_vJHjCAVXvlVrQzjsfZl4/preview
+[hw13]: https://docs.google.com/document/d/1zsj3UMsKjiz7Rc8m_W_UBQ2gkXkXI32s_KeJabqvzFw/preview
 
 <!--
 To make a link open in:
