@@ -5,12 +5,14 @@ layout: default
 ---
 
 {:#calendar .bg-primary .text-light .p-3 .mb-3}
-## _Very_ **Tenative** Calendar
+## **Tenative** Calendar
 
 **Class Meetings: 10am-12pm, 166 Social Sciences Every Friday**
 
 Blank rows will be filled in soon, though topics may change based on
 need and guest speakers.
+
+_Homework assignments which say "Spring 2022" at the top are last years versions. The dates, and minor details will change!_
 
 {:.table .table-striped}
 | Week | Date | Class topic | Homework |
@@ -34,19 +36,29 @@ need and guest speakers.
 | 17   | 5/12| Finals Week | |
 | 18   | TBD| May/June Meeting | |
 
-[hw1]: https://docs.google.com/document/d/1sGuqNcIH5D8qClo9z84ZqbAAc3Eak73HCX4zq05MaUo/edit#
-[hw2]: https://docs.google.com/document/d/1bCnQBxWNwIWAPJvZ4JnmY87X4MdMXGllJwfpu6iDxY8/edit#
+[hw1]: https://docs.google.com/document/d/1sGuqNcIH5D8qClo9z84ZqbAAc3Eak73HCX4zq05MaUo/preview#
+[hw2]: https://docs.google.com/document/d/1bCnQBxWNwIWAPJvZ4JnmY87X4MdMXGllJwfpu6iDxY8/preview#
 [hw3]:
-[hw4]:
-[hw5]:
-[hw6]:
-[hw7]:
-[hw8]:
-[hw9]:
-[hw10]:
-[hw11]:
-[hw12]:
-[hw13]:
+[hw4]: https://docs.google.com/document/d/1nq4Yq-gBIUkr3eG8ui5iQI3HiJlXR13dvHOKWL_Pgvg/edit
+[hw5]: https://docs.google.com/document/d/1xiBtklsg9U1SGSxW9fH-lG9Mpb5JecE_oLRQwwtOSGQ/edit
+[hw6]: https://docs.google.com/document/d/1Re_pn18RIHigO6tHzRcuuXqMLHlRvrgyrLT5OA-odvM/edit
+[hw7]: https://docs.google.com/document/d/1lD3xUMLBkRdMbW_3cCZXzLD01IP4lUh1/edit
+[hw8]: https://docs.google.com/document/d/1Ofa4NmYLlL_XugiBBDjWYxKQBzOS_Z_veNEiTB-P4Kw/edit
+[hw9]: https://docs.google.com/document/d/1jpAWeLPtWuDehENO5zIx6UzT4z1OEyieAIP9UL85m1c/edit
+[hw10]: https://docs.google.com/document/d/1uVWoXn7HORUC7CCROphr9dq2hcsU-Kqx4W6MlQ5H4ow/edit
+[hw11]: https://docs.google.com/document/d/1qANVq4eq9awixuokGti2p6vLaaFDrnDv57wE0oonnb4/edit
+[hw12]: https://docs.google.com/document/d/1IEOIYp9W4NGJyCep1VDqUm_vJHjCAVXvlVrQzjsfZl4/edit
+[hw13]: https://docs.google.com/document/d/1zsj3UMsKjiz7Rc8m_W_UBQ2gkXkXI32s_KeJabqvzFw/edit
+
+<!--
+To make a link open in:
+Preview mode: → Replace /edit with /preview
+Force a copy: → Replace /edit with /copy
+Force a copy with comment: → Replace /edit with /copy?copyComments=true
+Create a template: → Replace /edit with /template/preview
+In PDF:  → Google Docs & Sheets: Replace /edit with /export?format=pdf
+→ Google Slides & Drawings: Replace /edit with /export/pdf
+ -->
 
 {:#course-staff .bg-primary .text-light .p-3 .mb-3}
 ## Course staff
