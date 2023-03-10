@@ -23,18 +23,18 @@ _Homework assignments which say "Spring 2022" at the top are last years versions
 | 4    | 2/10 | Hiring and interviewing | [Homework 3][hw3] (Due Weds, Feb 15) |
 | 5    | 2/17 | Exam writing and Lecturing | [Homework 4][hw4] (Due Weds, Feb 22) |
 | 6    | 2/24 | Inclusivity & Accessibility | [Homework 5][hw5] (Due Weds, Mar 1) |
-| 7    | 3/3  | Exam proctoring, Office hours | [Homework 6][hw6] (Due Weds, Mar 8) |
-| 8    | 3/10 | Academic Misconduct (CSC guest) | [Homework 7][hw7] (Due Weds, Mar 15) |
-| 9    | 3/17 | Surveys, Grades | [Homework 8][hw8] (Due Weds, Mar 23) |
+| 7    | 3/3  | Union Meeting | [Homework 6][hw6] (Due Weds, Mar 8) |
+| 8    | 3/10 | Union Meeting & Academic Misconduct (CSC guest) | [Homework 7][hw7] (Due Weds, Mar 15) |
+| 9    | 3/17 | DSP, Incompletes, Extensions & Misconduct | [Homework 8][hw8] (Due Weds, Mar 23) |
 | 10   | 3/24 | **No Class** | [Homework 9][hw9] (Due Weds, April 5) |
 | 11   | 3/31 | **Spring Break** | No Homework |
-| 12   | 4/7  | Team mini-lectures | [Homework 10][hw10] (Due Weds, April 12) |
-| 13   | 4/14 | Team mini-lectures (Pt II) | [Homework 11][hw11] (Due Weds, April 19) |
-| 14   | 4/21 | DSP, Incompletes, Extensions | [Homework 12][hw12] (Due Weds, April 26) |
+| 12   | 4/7  | Accessibility & Inclusion | [Homework 10][hw10] (Due Weds, April 12) |
+| 13   | 4/14 | Surveys & Final Grading | [Homework 11][hw11] (Due Weds, April 19) |
+| 14   | 4/21 |  | [Homework 12][hw12] (Due Weds, April 26) |
 | 15   | 4/28 | "Things We Wish We Had Known…" (Panel) | [Homework 13][hw13] (Due Weds, May 3) |
-| 16   | 5/5 | RRR Week | No Homework |
-| 17   | 5/12| Finals Week | |
-| 18   | TBD| May/June Meeting | |
+| 16   | 5/5  | RRR Week | No Homework |
+| 17   | 5/12 | Finals Week | |
+| 18   | TBD  | May/June Meeting | |
 
 [hw1]: https://docs.google.com/document/d/1sGuqNcIH5D8qClo9z84ZqbAAc3Eak73HCX4zq05MaUo/preview
 [hw2]: https://docs.google.com/document/d/1bCnQBxWNwIWAPJvZ4JnmY87X4MdMXGllJwfpu6iDxY8/preview
@@ -43,7 +43,7 @@ _Homework assignments which say "Spring 2022" at the top are last years versions
 [hw5]: https://docs.google.com/document/d/1xiBtklsg9U1SGSxW9fH-lG9Mpb5JecE_oLRQwwtOSGQ/preview
 [hw6]: https://docs.google.com/document/d/1Re_pn18RIHigO6tHzRcuuXqMLHlRvrgyrLT5OA-odvM/preview
 [hw7]: https://docs.google.com/document/d/1lD3xUMLBkRdMbW_3cCZXzLD01IP4lUh1/preview
-[hw8]: https://docs.google.com/document/d/1Ofa4NmYLlL_XugiBBDjWYxKQBzOS_Z_veNEiTB-P4Kw/preview
+[hw8]: https://docs.google.com/document/d/1xBIBXpH1yR654XgmY0gBFsAju-yuzbsg2wVdtk2kmjY/preview
 [hw9]: https://docs.google.com/document/d/1jpAWeLPtWuDehENO5zIx6UzT4z1OEyieAIP9UL85m1c/preview
 [hw10]: https://docs.google.com/document/d/1uVWoXn7HORUC7CCROphr9dq2hcsU-Kqx4W6MlQ5H4ow/preview
 [hw11]: https://docs.google.com/document/d/1qANVq4eq9awixuokGti2p6vLaaFDrnDv57wE0oonnb4/preview
