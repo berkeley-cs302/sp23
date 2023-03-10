@@ -22,15 +22,15 @@ _Homework assignments which say "Spring 2022" at the top are last years versions
 | 3    | 2/3  | Logistics & class formats | [Homework 2][hw2] (Due Weds, Feb 8) |
 | 4    | 2/10 | Hiring and interviewing | [Homework 3][hw3] (Due Weds, Feb 15) |
 | 5    | 2/17 | Exam writing and Lecturing | [Homework 4][hw4] (Due Weds, Feb 22) |
-| 6    | 2/24 | Inclusivity & Accessibility | [Homework 5][hw5] (Due Weds, Mar 1) |
-| 7    | 3/3  | Union Meeting | [Homework 6][hw6] (Due Weds, Mar 8) |
-| 8    | 3/10 | Union Meeting & Academic Misconduct (CSC guest) | [Homework 7][hw7] (Due Weds, Mar 15) |
-| 9    | 3/17 | DSP, Incompletes, Extensions & Misconduct | [Homework 8][hw8] (Due Weds, Mar 23) |
+| 6    | 2/24 | Exams & Proctoring | [Homework 5][hw5] (Due Weds, Mar 1) |
+| 7    | 3/3  | Union Bargaining Discussion | [Homework 6][hw6] (Due Weds, Mar 8) |
+| 8    | 3/10 | Academic Misconduct (CSC guest) | [Homework 7][hw7] (Due Weds, Mar 15) |
+| 9    | 3/17 | DSP, Extensions, Incompletes | [Homework 8][hw8] (Due Weds, Mar 23) |
 | 10   | 3/24 | **No Class** | [Homework 9][hw9] (Due Weds, April 5) |
 | 11   | 3/31 | **Spring Break** | No Homework |
 | 12   | 4/7  | Accessibility & Inclusion | [Homework 10][hw10] (Due Weds, April 12) |
 | 13   | 4/14 | Surveys & Final Grading | [Homework 11][hw11] (Due Weds, April 19) |
-| 14   | 4/21 |  | [Homework 12][hw12] (Due Weds, April 26) |
+| 14   | 4/21 | TBD | [Homework 12][hw12] (Due Weds, April 26) |
 | 15   | 4/28 | "Things We Wish We Had Known…" (Panel) | [Homework 13][hw13] (Due Weds, May 3) |
 | 16   | 5/5  | RRR Week | No Homework |
 | 17   | 5/12 | Finals Week | |
@@ -40,7 +40,7 @@ _Homework assignments which say "Spring 2022" at the top are last years versions
 [hw2]: https://docs.google.com/document/d/1bCnQBxWNwIWAPJvZ4JnmY87X4MdMXGllJwfpu6iDxY8/preview
 [hw3]: https://docs.google.com/document/d/1rK-5MS-DYWEHTO40rI1PdiX_lKjM7KDVrty5zNTd0Go/preview
 [hw4]: https://docs.google.com/document/d/1nq4Yq-gBIUkr3eG8ui5iQI3HiJlXR13dvHOKWL_Pgvg/preview
-[hw5]: https://docs.google.com/document/d/1xiBtklsg9U1SGSxW9fH-lG9Mpb5JecE_oLRQwwtOSGQ/preview
+[hw5]: https://docs.google.com/document/d/19GzaFnvlwafGD4rzVbAYSTQCN9F-aLU4YDcoX4agGCM/preview
 [hw6]: https://docs.google.com/document/d/1Re_pn18RIHigO6tHzRcuuXqMLHlRvrgyrLT5OA-odvM/preview
 [hw7]: https://docs.google.com/document/d/1lD3xUMLBkRdMbW_3cCZXzLD01IP4lUh1/preview
 [hw8]: https://docs.google.com/document/d/1xBIBXpH1yR654XgmY0gBFsAju-yuzbsg2wVdtk2kmjY/preview
