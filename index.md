@@ -42,7 +42,7 @@ _Homework assignments which say "Spring 2022" at the top are last years versions
 [hw4]: https://docs.google.com/document/d/1nq4Yq-gBIUkr3eG8ui5iQI3HiJlXR13dvHOKWL_Pgvg/preview
 [hw5]: https://docs.google.com/document/d/19GzaFnvlwafGD4rzVbAYSTQCN9F-aLU4YDcoX4agGCM/preview
 [hw6]: https://docs.google.com/document/d/1Re_pn18RIHigO6tHzRcuuXqMLHlRvrgyrLT5OA-odvM/preview
-[hw7]: https://docs.google.com/document/d/d/1xBIBXpH1yR654XgmY0gBFsAju-yuzbsg2wVdtk2kmjY/preview
+[hw7]: https://docs.google.com/document/d/1xBIBXpH1yR654XgmY0gBFsAju-yuzbsg2wVdtk2kmjY/preview
 [hw8]: https://docs.google.com/document/d/1xBIBXpH1yR654XgmY0gBFsAju-yuzbsg2wVdtk2kmjY/preview
 [hw9]: https://docs.google.com/document/d/1jpAWeLPtWuDehENO5zIx6UzT4z1OEyieAIP9UL85m1c/preview
 [hw10]: https://docs.google.com/document/d/1uVWoXn7HORUC7CCROphr9dq2hcsU-Kqx4W6MlQ5H4ow/preview
