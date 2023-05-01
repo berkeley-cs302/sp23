@@ -31,10 +31,12 @@ _Homework assignments which say "Spring 2022" at the top are last years versions
 | 12   | 4/7  | Accessibility & Inclusion | [Homework 8][hw8] (Due Weds, April 12) |
 | 13   | 4/14 | Surveys & Final Grading | [Homework 9][hw9] (Due Weds, April 19) |
 | 14   | 4/21 | TBD | [Homework 10][hw10] (Due Weds, April 26) |
-| 15   | 4/28 | "Things We Wish We Had Known…" (Panel) | [Homework 11][hw11] (Due Weds, May 3) |
+| 15   | 4/28 | "Things We Wish We Had Known…" (Panel) | No Homework |
 | 16   | 5/5  | RRR Week | No Homework |
 | 17   | 5/12 | Finals Week | |
-| 18   | TBD  | May/June Meeting | |
+| 18   | 5/15-5/19  | May Meeting | |
+| 19   | 6/13-5/16  | June Meeting | |
+
 
 [hw1]: https://docs.google.com/document/d/1sGuqNcIH5D8qClo9z84ZqbAAc3Eak73HCX4zq05MaUo/preview
 [hw2]: https://docs.google.com/document/d/1bCnQBxWNwIWAPJvZ4JnmY87X4MdMXGllJwfpu6iDxY8/preview
